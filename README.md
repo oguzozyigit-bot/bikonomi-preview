@@ -20,4 +20,5 @@ npm run dev
 - **Ürün sayfası**: fiyat geçmişi grafiği (Recharts), AI kararı (Şimdi Al/Bekle), satıcı tablosu
 
 > Not: Veriler demo amaçlıdır. Gerçek veriye bağlamak için API uçlarını ekleyiniz.
- 
+ 🟢 Son test dağıtımı – Bikonomi ön izleme güncellendi.
+
